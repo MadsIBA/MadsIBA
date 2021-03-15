@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadsIBA
+- 👋 Hi, I’m Mads
 - 👀 I’m interested in webdevelopment as of general
 - 🌱 I’m currently learning php and javascript
 
