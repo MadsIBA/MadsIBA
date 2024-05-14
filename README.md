@@ -4,8 +4,7 @@
 
 - 👋 Hi, I’m Mads
 - 👀 I’m working with Webdevelopment and UX/UI design.
-- 🌱 I’m currently learning javascript and php through a community project.
-- 🎮 I love playing games with friends. This also means boardgames.
+- 🌱 I’m currently learning React through a community project.
 
 <!---
 MadsIBA/MadsIBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
