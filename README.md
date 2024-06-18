@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
   Website for the ISML cardgame - Currently under contruction
   
 - **Discord Bot (Private until Public "I know")**
-  I made this bot as my very first project after getting my Webdeveloper degree. It's been my baby ever since.
+I made this bot as my very first project after getting my Webdeveloper degree. It's been my baby ever since.
 
 ### Repositories
 
