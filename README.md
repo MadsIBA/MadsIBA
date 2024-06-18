@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 - [**ISML Site**](https://github.com/MadsIBA/ISMLsite)  
   Website for the ISML cardgame - Currently under contruction
   
-- [**Discord Bot (Private Repo for now)**](https://github.com/MadsIBA/VanillaTS)  
+- [**Discord Bot (Private until Public "I know")**]
   I made this bot as my very first project after getting my Webdeveloper degree. It's been my baby ever since.
 
 ### Repositories
