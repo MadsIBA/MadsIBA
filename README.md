@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 ## 📫 How to Reach Me
 
 - LinkedIn: [Mads IBA]([https://www.linkedin.com/in/mads-iba/](https://www.linkedin.com/in/mm2097/))
-- Email: [mads@example.com](mailto:mads2097@gmail.com)
+- Email: [Click here to send me an Email](mailto:mads2097@gmail.com)
 
 ## 🌱 Let's Connect
 
