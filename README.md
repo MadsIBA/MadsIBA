@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a keen interes
 
 ### Repositories
 
-- [**Repository Name**](https://github.com/MadsIBA/ISMLsite): The ISML Card Game is a card collecting game played on the ISML Discord server, featuring characters from the International Saimoe League. Players can roll for cards, build their collections, and participate in various events.
+- [**ISML Site**](https://github.com/MadsIBA/ISMLsite): The ISML Card Game is a card collecting game played on the ISML Discord server, featuring characters from the International Saimoe League. Players can roll for cards, build their collections, and participate in various events.
 
 ## 📫 How to Reach Me
 
